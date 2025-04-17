@@ -4,12 +4,12 @@ import { getAuth } from "firebase/auth";
 import messaging from "@react-native-firebase/messaging";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDgORQQPAF2ch2ivixl5oNzraiCA4HjKu4",
-  authDomain: "myservi.firebaseapp.com",
-  projectId: "myservi",
-  storageBucket: "myservi-ca67a.firebasestorage.app",
-  messagingSenderId: "596523343916",
-  appId: "1:596523343916:web:d57597235cda42775cb189",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
